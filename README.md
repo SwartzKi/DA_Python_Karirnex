@@ -10,11 +10,7 @@ The dataset contains car sales transaction data, including sales date, branch, p
 
 ## Analysis Objectives
 
-1. Explore the dataset by checking its dimensions, columns, and initial records.
-2. Calculate the number of transactions for each car category.
-3. Identify the branch with the highest number of transactions.
-4. Clean and prepare the dataset for further analysis.
-5. Identify the branch and car category combination with the highest total sales.
+The project consists of several analysis questions designed to practice Python concepts and techniques.
 
 ## Python Concepts
 
