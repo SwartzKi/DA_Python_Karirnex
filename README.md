@@ -12,6 +12,11 @@ The dataset contains car sales transaction data, including sales date, branch, p
 
 The project consists of several analysis questions designed to practice Python concepts and techniques.
 
+## Jupyter Notebook
+
+The notebook contains the complete Python code from Google Colab, with each analysis objective followed by its corresponding analysis and results. The comments and analysis approaches are written in Indonesian and may include some personal notes for learning and documentation purposes.
+
+
 ## Python Concepts
 
 * Data loading and exploration
@@ -28,7 +33,7 @@ The project consists of several analysis questions designed to practice Python c
 
 ## Documentation
 
-The PDF contains the analysis objectives, screenshots of the Python code and the corresponding outputs. The content and explanations are written in Indonesian.
+The PDF contains the analysis objectives, screenshots of the Python code, and the corresponding outputs. The content and explanations are written in Indonesian.
 
 ## Tools
 
